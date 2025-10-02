@@ -1,0 +1,2571 @@
+[
+  {
+    "name": "甄士隐",
+    "description": "名费，字士隐，谐音“真事隐去”。《红楼梦》开篇人物。",
+    "relationships": [
+      {"relation": "妻子", "name": "封氏"},
+      {"relation": "岳父", "name": "封肃"},
+      {"relation": "丫鬟", "name": "姣杏"},
+      {"relation": "仆人", "name": "霍启"}
+    ]
+  },
+  {
+    "name": "封氏",
+    "description": "甄士隐的妻子。",
+    "relationships": [
+      {"relation": "丈夫", "name": "甄士隐"},
+      {"relation": "父亲", "name": "封肃"}
+    ]
+  },
+  {
+    "name": "封肃",
+    "description": "甄士隐的岳父。",
+    "relationships": [
+      {"relation": "女儿", "name": "封氏"},
+      {"relation": "女婿", "name": "甄士隐"}
+    ]
+  },
+  {
+    "name": "姣杏",
+    "description": "甄士隐的丫鬟。",
+    "relationships": [
+      {"relation": "主人", "name": "甄士隐"}
+    ]
+  },
+  {
+    "name": "霍启",
+    "description": "甄士隐的仆人。",
+    "relationships": [
+      {"relation": "主人", "name": "甄士隐"}
+    ]
+  },
+  {
+    "name": "贾雨村",
+    "description": "名化，别号雨村，谐音“假语村言”。书中重要人物。",
+    "relationships": [
+      {"relation": "朋友", "name": "冷子兴"}
+    ]
+  },
+  {
+    "name": "冷子兴",
+    "description": "贾雨村的朋友。",
+    "relationships": [
+      {"relation": "朋友", "name": "贾雨村"}
+    ]
+  },
+  {
+    "name": "茫茫大士",
+    "description": "癞头僧人的化身，开篇神仙人物。",
+    "relationships": [
+      {"relation": "同伴", "name": "渺渺真人"}
+    ]
+  },
+  {
+    "name": "渺渺真人",
+    "description": "跛足道人的化身，开篇神仙人物。",
+    "relationships": [
+      {"relation": "同伴", "name": "茫茫大士"}
+    ]
+  },
+  {
+    "name": "神瑛侍者",
+    "description": "宝玉的前身，侍养绛珠仙草之神。",
+    "relationships": [
+      {"relation": "前世", "name": "贾宝玉"},
+      {"relation": "浇灌对象", "name": "绛珠仙草"}
+    ]
+  },
+  {
+    "name": "绛珠仙草",
+    "description": "黛玉的前身，因神瑛侍者的甘露灌溉而得以修炼。",
+    "relationships": [
+      {"relation": "前世", "name": "林黛玉"},
+      {"relation": "受恩于", "name": "神瑛侍者"}
+    ]
+  },
+  {
+    "name": "警幻仙子",
+    "description": "太虚幻境的仙姑，掌管警幻仙境。",
+    "relationships": [
+      {"relation": "同伴", "name": "痴梦仙姑"},
+      {"relation": "同伴", "name": "引愁金女"},
+      {"relation": "同伴", "name": "钟情大士"},
+      {"relation": "同伴", "name": "度恨菩提"}
+    ]
+  },
+
+  {
+    "name": "贾演",
+    "description": "宁国府创始人，宁国公，生了四个儿子",
+    "relationships": [
+      {"relation": "儿子", "name": "贾代化"}
+    ]
+  },
+  {
+    "name": "贾源",
+    "description": "荣国府创始人，荣国公，没说生了几个儿子",
+    "relationships": [
+      {"relation": "儿子", "name": "贾代善"}
+    ]
+  },
+  {
+    "name": "贾代化",
+    "description": "宁府贾演的儿子。宁国公死后，贾代化袭了官，是第二代宁国公，生了两个儿子",
+    "relationships": [
+      {"relation": "父亲", "name": "贾演"},
+      {"relation": "儿子", "name": "贾敷"},
+      {"relation": "儿子", "name": "贾敬"}
+    ]
+  },
+  {
+    "name": "贾代善",
+    "description": "荣府贾源的儿子。荣国公死后，长子贾代善袭了官，是第二代荣国公，娶了金陵世勋史侯家的千金小姐为妻，生了两个儿子，如今贾代善早已去世，史老太尚在",
+    "relationships": [
+      {"relation": "父亲", "name": "贾源"},
+      {"relation": "配偶", "name": "史太君"},
+      {"relation": "儿子", "name": "贾赦"},
+      {"relation": "儿子", "name": "贾政"},
+      {"relation": "女儿", "name": "贾敏"}
+    ]
+  },
+  {
+    "name": "史太君",
+    "description": "荣府贾代善的妻子，史侯家千金，贾母",
+    "relationships": [
+      {"relation": "配偶", "name": "贾代善"},
+      {"relation": "儿子", "name": "贾赦"},
+      {"relation": "儿子", "name": "贾政"},
+      {"relation": "女儿", "name": "贾敏"}
+    ]
+  },
+  {
+    "name": "贾敷",
+    "description": "宁府贾代化的长子。八九岁早亡，没有后代",
+    "relationships": [
+      {"relation": "父亲", "name": "贾代化"}
+    ]
+  },
+  {
+    "name": "贾敬",
+    "description": "宁府贾代化的次子。袭了官，留下一儿一女，修道去了，不肯回来",
+    "relationships": [
+      {"relation": "父亲", "name": "贾代化"},
+      {"relation": "儿子", "name": "贾珍"},
+      {"relation": "女儿", "name": "贾惜春"}
+    ]
+  },
+  {
+    "name": "贾赦",
+    "description": "荣府贾代善的长子。目前袭着官，第一任妻子生下贾琏后去世，邢夫人填房但没有孩子",
+    "relationships": [
+      {"relation": "父亲", "name": "贾代善"},
+      {"relation": "配偶", "name": "邢夫人"},
+      {"relation": "儿子", "name": "贾琏"},
+      {"relation": "儿子", "name": "贾琮"},
+      {"relation": "女儿", "name": "贾迎春"}
+    ]
+  },
+  {
+    "name": "邢夫人",
+    "description": "荣府贾赦的填房妻子，但没有孩子",
+    "relationships": [
+      {"relation": "配偶", "name": "贾赦"}
+    ]
+  },
+  {
+    "name": "贾政",
+    "description": "荣府贾代善的次子。目前是员外郎，王夫人是正室，她先后生了贾珠、贾元春、贾宝玉",
+    "relationships": [
+      {"relation": "父亲", "name": "贾代善"},
+      {"relation": "配偶", "name": "王夫人"},
+      {"relation": "配偶", "name": "赵姨娘"},
+      {"relation": "儿子", "name": "贾珠"},
+      {"relation": "儿子", "name": "贾宝玉"},
+      {"relation": "儿子", "name": "贾环"},
+      {"relation": "女儿", "name": "贾元春"},
+      {"relation": "女儿", "name": "贾探春"}
+    ]
+  },
+  {
+    "name": "王夫人",
+    "description": "荣府贾政的正室妻子，生了贾珠、贾元春、贾宝玉",
+    "relationships": [
+      {"relation": "配偶", "name": "贾政"},
+      {"relation": "儿子", "name": "贾珠"},
+      {"relation": "儿子", "name": "贾宝玉"},
+      {"relation": "女儿", "name": "贾元春"}
+    ]
+  },
+  {
+    "name": "贾敏",
+    "description": "荣府贾代善的独女。嫁给了巡盐御史林如海，他们的儿子三岁夭折，仅剩一女林黛玉",
+    "relationships": [
+      {"relation": "父亲", "name": "贾代善"},
+      {"relation": "配偶", "name": "林如海"},
+      {"relation": "女儿", "name": "林黛玉"}
+    ]
+  },
+  {
+    "name": "林如海",
+    "description": "荣府贾敏的丈夫，巡盐御史",
+    "relationships": [
+      {"relation": "配偶", "name": "贾敏"},
+      {"relation": "女儿", "name": "林黛玉"}
+    ]
+  },
+  {
+    "name": "贾珍",
+    "description": "宁府贾敬的独子。因他父亲一心想做神仙，家务事一概不管，就早早让这个儿子袭了官，所以贾珍是现在宁府的老大。第一任妻子生下贾蓉后早早去世，尤氏填房但没有孩子，贾珍很色，经常和儿媳秦可卿、小姨子尤二姐搞暧昧",
+    "relationships": [
+      {"relation": "父亲", "name": "贾敬"},
+      {"relation": "配偶", "name": "尤氏"},
+      {"relation": "儿子", "name": "贾蓉"}
+    ]
+  },
+  {
+    "name": "尤氏",
+    "description": "宁府贾珍的填房妻子，但没有孩子",
+    "relationships": [
+      {"relation": "配偶", "name": "贾珍"}
+    ]
+  },
+  {
+    "name": "贾珠",
+    "description": "荣府贾政的头胎。十四岁进学，娶妻生子，不到二十岁就病逝了，李纨守寡",
+    "relationships": [
+      {"relation": "父亲", "name": "贾政"},
+      {"relation": "配偶", "name": "李纨"},
+      {"relation": "儿子", "name": "贾兰"}
+    ]
+  },
+  {
+    "name": "李纨",
+    "description": "荣府贾珠的妻子，守寡",
+    "relationships": [
+      {"relation": "配偶", "name": "贾珠"},
+      {"relation": "儿子", "name": "贾兰"}
+    ]
+  },
+  {
+    "name": "贾琏",
+    "description": "荣府贾赦的儿子。年纪比贾珠小一些，亲上作亲，娶了王夫人的内侄女王熙凤，王熙凤生了巧姐，平儿是陪嫁，最后扶正，尤二姐是贾琏外面偷娶的二房，秋桐是父亲赏的小妾，贾琏同样很好色，和多姑娘、鲍二媳妇发生过关系",
+    "relationships": [
+      {"relation": "父亲", "name": "贾赦"},
+      {"relation": "配偶", "name": "王熙凤"},
+      {"relation": "配偶", "name": "平儿"},
+      {"relation": "配偶", "name": "尤二姐"},
+      {"relation": "配偶", "name": "秋桐"},
+      {"relation": "女儿", "name": "巧姐"}
+    ]
+  },
+  {
+    "name": "王熙凤",
+    "description": "荣府贾琏的妻子，王夫人的内侄女，生了巧姐",
+    "relationships": [
+      {"relation": "配偶", "name": "贾琏"},
+      {"relation": "女儿", "name": "巧姐"}
+    ]
+  },
+  {
+    "name": "平儿",
+    "description": "王熙凤的陪嫁，最后扶正",
+    "relationships": [
+      {"relation": "配偶", "name": "贾琏"}
+    ]
+  },
+  {
+    "name": "尤二姐",
+    "description": "贾琏外面偷娶的二房",
+    "relationships": [
+      {"relation": "配偶", "name": "贾琏"}
+    ]
+  },
+  {
+    "name": "秋桐",
+    "description": "父亲赏的小妾",
+    "relationships": [
+      {"relation": "配偶", "name": "贾琏"}
+    ]
+  },
+  {
+    "name": "贾琮",
+    "description": "荣府贾赦的儿子。庶出，出场不多",
+    "relationships": [
+      {"relation": "父亲", "name": "贾赦"}
+    ]
+  },
+  {
+    "name": "贾宝玉",
+    "description": "荣府贾政的第三胎。生下来嘴里便衔着玉，上面还有许多字迹，就取名叫宝玉，最后在家族安排下稀里糊涂和薛宝钗结了婚",
+    "relationships": [
+      {"relation": "父亲", "name": "贾政"},
+      {"relation": "配偶", "name": "薛宝钗"}
+    ]
+  },
+  {
+    "name": "薛宝钗",
+    "description": "荣府贾宝玉的妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "贾环",
+    "description": "荣府贾政的儿子。庶出，生母是赵姨娘，母子俩经常陷害宝玉",
+    "relationships": [
+      {"relation": "父亲", "name": "贾政"},
+      {"relation": "母亲", "name": "赵姨娘"}
+    ]
+  },
+  {
+    "name": "赵姨娘",
+    "description": "荣府贾政的妾，贾环和贾探春的生母",
+    "relationships": [
+      {"relation": "配偶", "name": "贾政"},
+      {"relation": "儿子", "name": "贾环"},
+      {"relation": "女儿", "name": "贾探春"}
+    ]
+  },
+  {
+    "name": "贾元春",
+    "description": "荣府贾政的第二胎，生在大年初一，做了皇帝的妃子",
+    "relationships": [
+      {"relation": "父亲", "name": "贾政"},
+      {"relation": "配偶", "name": "皇帝"}
+    ]
+  },
+  {
+    "name": "皇帝",
+    "description": "贾元春的丈夫",
+    "relationships": [
+      {"relation": "配偶", "name": "贾元春"}
+    ]
+  },
+  {
+    "name": "贾迎春",
+    "description": "荣府贾赦的女儿，庶出，生母小妾已去世",
+    "relationships": [
+      {"relation": "父亲", "name": "贾赦"},
+      {"relation": "配偶", "name": "孙绍祖"}
+    ]
+  },
+  {
+    "name": "孙绍祖",
+    "description": "荣府贾迎春的丈夫",
+    "relationships": [
+      {"relation": "配偶", "name": "贾迎春"}
+    ]
+  },
+  {
+    "name": "贾探春",
+    "description": "荣府贾政的女儿，庶出，生母是赵姨娘",
+    "relationships": [
+      {"relation": "父亲", "name": "贾政"},
+      {"relation": "母亲", "name": "赵姨娘"},
+      {"relation": "配偶", "name": "周公子"}
+    ]
+  },
+  {
+    "name": "周公子",
+    "description": "荣府贾探春的丈夫",
+    "relationships": [
+      {"relation": "配偶", "name": "贾探春"}
+    ]
+  },
+  {
+    "name": "贾惜春",
+    "description": "宁府贾敬的女儿，贾珍的胞妹，因荣府贾母极爱孙女，便跟在贾母身边读书，最后出家",
+    "relationships": [
+      {"relation": "父亲", "name": "贾敬"},
+      {"relation": "哥哥", "name": "贾珍"}
+    ]
+  },
+  {
+    "name": "林黛玉",
+    "description": "荣府贾敏的女儿，在宝玉结婚时泪逝",
+    "relationships": [
+      {"relation": "父亲", "name": "林如海"},
+      {"relation": "母亲", "name": "贾敏"}
+    ]
+  },
+  {
+    "name": "贾蓉",
+    "description": "宁府贾珍的儿子。开篇才十六岁，妻子秦可卿去世后，续弦许氏",
+    "relationships": [
+      {"relation": "父亲", "name": "贾珍"},
+      {"relation": "配偶", "name": "秦可卿"},
+      {"relation": "配偶", "name": "许氏"}
+    ]
+  },
+  {
+    "name": "秦可卿",
+    "description": "宁府贾蓉的妻子，早逝",
+    "relationships": [
+      {"relation": "配偶", "name": "贾蓉"}
+    ]
+  },
+  {
+    "name": "许氏",
+    "description": "宁府贾蓉的续弦妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "贾蓉"}
+    ]
+  },
+  {
+    "name": "贾兰",
+    "description": "荣府贾珠和李纨的儿子，最后中举，重振贾府",
+    "relationships": [
+      {"relation": "父亲", "name": "贾珠"},
+      {"relation": "母亲", "name": "李纨"}
+    ]
+  },
+  {
+    "name": "巧姐",
+    "description": "荣府贾琏和凤姐的女儿",
+    "relationships": [
+      {"relation": "父亲", "name": "贾琏"},
+      {"relation": "母亲", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "贾代儒",
+    "description": "贾家的爷爷辈，教书先生，儿子儿媳均早亡，对孙子贾瑞管得很严",
+    "relationships": [
+      {"relation": "孙子", "name": "贾瑞"}
+    ]
+  },
+  {
+    "name": "贾瑞",
+    "description": "老是调戏王熙凤，最后得到风月宝鉴，意淫王熙凤而死",
+    "relationships": [
+      {"relation": "祖父", "name": "贾代儒"}
+    ]
+  },
+  {
+    "name": "贾璜",
+    "description": "娶了金氏，夫妻俩经常到贾府里去奉承，凤姐和尤氏也经常资助他们",
+    "relationships": [
+      {"relation": "配偶", "name": "金氏"}
+    ]
+  },
+  {
+    "name": "金氏",
+    "description": "贾璜的妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "贾璜"}
+    ]
+  },
+  {
+    "name": "贾蔷",
+    "description": "宁府的正派玄孙，他祖宗也是贾演，父母早亡，从小跟贾珍生活，后来做了戏班总管，和龄官相好",
+    "relationships": [
+      {"relation": "亲戚", "name": "贾珍"}
+    ]
+  },
+  {
+    "name": "贾芸",
+    "description": "五嫂子的儿子，父亲早亡，被宝玉戏称作干儿子，另外和小红有段恋情",
+    "relationships": [
+      {"relation": "母亲", "name": "五嫂子"},
+      {"relation": "义父", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "五嫂子",
+    "description": "贾芸的母亲",
+    "relationships": [
+      {"relation": "儿子", "name": "贾芸"}
+    ]
+  },
+  {
+    "name": "贾芹",
+    "description": "周氏的儿子，铁槛寺的总管，在庙里为王称霸，最后有人告状，贾政革去了他的职位",
+    "relationships": [
+      {"relation": "母亲", "name": "周氏"}
+    ]
+  },
+  {
+    "name": "周氏",
+    "description": "贾芹的母亲",
+    "relationships": [
+      {"relation": "儿子", "name": "贾芹"}
+    ]
+  },
+  {
+    "name": "贾菌",
+    "description": "娄氏的儿子，是个孤儿，读书时与贾兰最好，在顽童闹学时很顽皮，不肯吃亏",
+    "relationships": [
+      {"relation": "母亲", "name": "娄氏"}
+    ]
+  },
+  {
+    "name": "娄氏",
+    "description": "贾菌的母亲",
+    "relationships": [
+      {"relation": "儿子", "name": "贾菌"}
+    ]
+  },
+  {
+    "name": "贾代修",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾敕",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾效",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾敦",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾珩",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾㻞",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾珖",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾琛",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾琼",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾璘",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾萍",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾菖",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾菱",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾蓁",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾藻",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾蘅",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾芬",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾芳",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾芝",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾荇",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾芷",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "贾葛",
+    "description": "贾家远房宗族",
+    "relationships": []
+  },
+  {
+    "name": "喜鸾",
+    "description": "贾㻞的妹妹，宝玉的远房堂妹",
+    "relationships": [
+      {"relation": "哥哥", "name": "贾㻞"},
+      {"relation": "堂兄", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "四姐",
+    "description": "贾琼的妹妹，宝玉的远房堂妹",
+    "relationships": [
+      {"relation": "哥哥", "name": "贾琼"},
+      {"relation": "堂兄", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "史湘云的爷爷",
+    "description": "史湘云的爷爷，先后生了史鼐、史鼎、史湘云的父亲",
+    "relationships": [
+      {"relation": "儿子", "name": "史鼐"},
+      {"relation": "儿子", "name": "史鼎"},
+      {"relation": "儿子", "name": "史湘云的父亲"},
+      {"relation": "妹妹", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "史鼐",
+    "description": "保龄侯，史湘云的伯伯",
+    "relationships": [
+      {"relation": "父亲", "name": "史湘云的爷爷"},
+      {"relation": "兄弟", "name": "史鼎"},
+      {"relation": "兄弟", "name": "史湘云的父亲"},
+      {"relation": "侄女", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "史鼎",
+    "description": "忠靖侯，史湘云的伯伯",
+    "relationships": [
+      {"relation": "父亲", "name": "史湘云的爷爷"},
+      {"relation": "兄弟", "name": "史鼐"},
+      {"relation": "兄弟", "name": "史湘云的父亲"},
+      {"relation": "侄女", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "史湘云的父亲",
+    "description": "史湘云的父亲，生了史湘云",
+    "relationships": [
+      {"relation": "父亲", "name": "史湘云的爷爷"},
+      {"relation": "兄弟", "name": "史鼐"},
+      {"relation": "兄弟", "name": "史鼎"},
+      {"relation": "配偶", "name": "史湘云的母亲"},
+      {"relation": "女儿", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "史湘云的母亲",
+    "description": "史湘云的母亲，生了史湘云",
+    "relationships": [
+      {"relation": "配偶", "name": "史湘云的父亲"},
+      {"relation": "女儿", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "史湘云",
+    "description": "史太君的内侄孙女，父母双亡，但判词说她“厮配得才貌仙郎”，说明婚姻美满",
+    "relationships": [
+      {"relation": "父亲", "name": "史湘云的父亲"},
+      {"relation": "母亲", "name": "史湘云的母亲"},
+      {"relation": "伯父", "name": "史鼐"},
+      {"relation": "伯父", "name": "史鼎"},
+      {"relation": "姑婆", "name": "史太君"},
+      {"relation": "配偶", "name": "卫若兰"}
+    ]
+  },
+  {
+    "name": "卫若兰",
+    "description": "史湘云的丈夫",
+    "relationships": [
+      {"relation": "配偶", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "王熙凤的爷爷",
+    "description": "王熙凤的爷爷，先后生了王熙凤的父亲、王子腾、王子胜、王夫人、王氏薛姨妈",
+    "relationships": [
+      {"relation": "儿子", "name": "王熙凤的父亲"},
+      {"relation": "儿子", "name": "王子腾"},
+      {"relation": "儿子", "name": "王子胜"},
+      {"relation": "女儿", "name": "王夫人"},
+      {"relation": "女儿", "name": "王氏薛姨妈"}
+    ]
+  },
+  {
+    "name": "王熙凤的父亲",
+    "description": "王熙凤的父亲，先后生了王仁、巧姐二舅、王熙凤",
+    "relationships": [
+      {"relation": "父亲", "name": "王熙凤的爷爷"},
+      {"relation": "儿子", "name": "王仁"},
+      {"relation": "儿子", "name": "巧姐二舅"},
+      {"relation": "女儿", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "王熙凤的母亲",
+    "description": "王熙凤的母亲",
+    "relationships": [
+      {"relation": "配偶", "name": "王熙凤的父亲"},
+      {"relation": "儿子", "name": "王仁"},
+      {"relation": "儿子", "name": "巧姐二舅"},
+      {"relation": "女儿", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "王子腾",
+    "description": "王熙凤舅家王家最大的长子",
+    "relationships": [
+      {"relation": "父亲", "name": "王熙凤的爷爷"},
+      {"relation": "兄弟", "name": "王子胜"},
+      {"relation": "兄弟", "name": "王熙凤的父亲"},
+      {"relation": "姐妹", "name": "王夫人"},
+      {"relation": "姐妹", "name": "王氏薛姨妈"},
+      {"relation": "女儿", "name": "王子腾之女"}
+    ]
+  },
+  {
+    "name": "王子胜",
+    "description": "王子腾的弟弟，无用之人",
+    "relationships": [
+      {"relation": "父亲", "name": "王熙凤的爷爷"},
+      {"relation": "哥哥", "name": "王子腾"},
+      {"relation": "兄弟", "name": "王熙凤的父亲"},
+      {"relation": "姐妹", "name": "王夫人"},
+      {"relation": "姐妹", "name": "王氏薛姨妈"}
+    ]
+  },
+  {
+    "name": "王氏薛姨妈",
+    "description": "王子腾的妹妹，薛蟠和薛宝钗的母亲",
+    "relationships": [
+      {"relation": "父亲", "name": "王熙凤的爷爷"},
+      {"relation": "兄弟", "name": "王子腾"},
+      {"relation": "兄弟", "name": "王子胜"},
+      {"relation": "兄弟", "name": "王熙凤的父亲"},
+      {"relation": "姐妹", "name": "王夫人"},
+      {"relation": "儿子", "name": "薛蟠"},
+      {"relation": "女儿", "name": "薛宝钗"},
+      {"relation": "配偶", "name": "薛蟠的父亲"}
+    ]
+  },
+  {
+    "name": "王仁",
+    "description": "王熙凤的哥哥，贾家败落后欺负巧姐",
+    "relationships": [
+      {"relation": "父亲", "name": "王熙凤的父亲"},
+      {"relation": "母亲", "name": "王熙凤的母亲"},
+      {"relation": "妹妹", "name": "王熙凤"},
+      {"relation": "兄弟", "name": "巧姐二舅"}
+    ]
+  },
+  {
+    "name": "巧姐二舅",
+    "description": "巧姐是他亲妹妹唯一的女儿，却也老是欺负巧姐",
+    "relationships": [
+      {"relation": "父亲", "name": "王熙凤的父亲"},
+      {"relation": "母亲", "name": "王熙凤的母亲"},
+      {"relation": "兄弟", "name": "王仁"},
+      {"relation": "妹妹", "name": "王熙凤"},
+      {"relation": "外甥女", "name": "巧姐"}
+    ]
+  },
+  {
+    "name": "王子腾之女",
+    "description": "王子腾的女儿，嫁给了保宁侯之子",
+    "relationships": [
+      {"relation": "父亲", "name": "王子腾"},
+      {"relation": "配偶", "name": "保宁侯之子"}
+    ]
+  },
+  {
+    "name": "保宁侯之子",
+    "description": "保宁侯之子，王子腾之女的丈夫",
+    "relationships": [
+      {"relation": "配偶", "name": "王子腾之女"}
+    ]
+  },
+  {
+    "name": "薛蟠的爷爷",
+    "description": "薛蟠的爷爷，先后生了薛蟠的父亲、薛宝琴的父亲",
+    "relationships": [
+      {"relation": "儿子", "name": "薛蟠的父亲"},
+      {"relation": "儿子", "name": "薛宝琴的父亲"}
+    ]
+  },
+  {
+    "name": "薛蟠的父亲",
+    "description": "薛蟠的父亲，与王氏薛姨妈生了薛蟠、薛宝钗",
+    "relationships": [
+      {"relation": "父亲", "name": "薛蟠的爷爷"},
+      {"relation": "兄弟", "name": "薛宝琴的父亲"},
+      {"relation": "配偶", "name": "王氏薛姨妈"},
+      {"relation": "儿子", "name": "薛蟠"},
+      {"relation": "女儿", "name": "薛宝钗"}
+    ]
+  },
+  {
+    "name": "薛宝琴的父亲",
+    "description": "薛宝琴的父亲，与薛宝琴的母亲生了薛蝌、薛宝琴",
+    "relationships": [
+      {"relation": "父亲", "name": "薛蟠的爷爷"},
+      {"relation": "兄弟", "name": "薛蟠的父亲"},
+      {"relation": "配偶", "name": "薛宝琴的母亲"},
+      {"relation": "儿子", "name": "薛蝌"},
+      {"relation": "女儿", "name": "薛宝琴"}
+    ]
+  },
+  {
+    "name": "薛宝琴的母亲",
+    "description": "薛宝琴的母亲，生了薛蝌、薛宝琴",
+    "relationships": [
+      {"relation": "配偶", "name": "薛宝琴的父亲"},
+      {"relation": "儿子", "name": "薛蝌"},
+      {"relation": "女儿", "name": "薛宝琴"}
+    ]
+  },
+  {
+    "name": "薛蟠",
+    "description": "薛姨妈的大儿子，纨绔子弟，夏金桂是正室，宝蟾是陪房，香菱是强买来",
+    "relationships": [
+      {"relation": "父亲", "name": "薛蟠的父亲"},
+      {"relation": "母亲", "name": "王氏薛姨妈"},
+      {"relation": "妹妹", "name": "薛宝钗"},
+      {"relation": "配偶", "name": "夏金桂"},
+      {"relation": "妾", "name": "香菱"},
+      {"relation": "妾", "name": "宝蟾"}
+    ]
+  },
+  {
+    "name": "夏金桂",
+    "description": "薛蟠的正室妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "薛蟠"}
+    ]
+  },
+  {
+    "name": "香菱",
+    "description": "薛蟠的妾，强买来",
+    "relationships": [
+      {"relation": "配偶", "name": "薛蟠"}
+    ]
+  },
+  {
+    "name": "宝蟾",
+    "description": "夏金桂的陪房，薛蟠的妾",
+    "relationships": [
+      {"relation": "配偶", "name": "薛蟠"}
+    ]
+  },
+  {
+    "name": "薛蝌",
+    "description": "薛姨妈的侄子，相貌英俊，才学出众。邢岫烟是邢夫人的侄女，家境贫寒，前来投奔邢夫人，然后被薛姨妈看中了",
+    "relationships": [
+      {"relation": "父亲", "name": "薛宝琴的父亲"},
+      {"relation": "母亲", "name": "薛宝琴的母亲"},
+      {"relation": "妹妹", "name": "薛宝琴"},
+      {"relation": "伯母", "name": "王氏薛姨妈"},
+      {"relation": "配偶", "name": "邢岫烟"}
+    ]
+  },
+  {
+    "name": "邢岫烟",
+    "description": "邢夫人的侄女，嫁给了薛蝌",
+    "relationships": [
+      {"relation": "姑姑", "name": "邢夫人"},
+      {"relation": "父亲", "name": "邢忠"},
+      {"relation": "配偶", "name": "薛蝌"}
+    ]
+  },
+  {
+    "name": "薛宝琴",
+    "description": "薛姨妈的侄女，嫁给了梅翰林之子",
+    "relationships": [
+      {"relation": "父亲", "name": "薛宝琴的父亲"},
+      {"relation": "母亲", "name": "薛宝琴的母亲"},
+      {"relation": "哥哥", "name": "薛蝌"},
+      {"relation": "伯母", "name": "王氏薛姨妈"},
+      {"relation": "配偶", "name": "梅翰林之子"}
+    ]
+  },
+  {
+    "name": "梅翰林之子",
+    "description": "薛宝琴的丈夫",
+    "relationships": [
+      {"relation": "配偶", "name": "薛宝琴"}
+    ]
+  },
+  {
+    "name": "邢忠",
+    "description": "邢夫人的哥哥，就是邢岫烟的父亲",
+    "relationships": [
+      {"relation": "妹妹", "name": "邢夫人"},
+      {"relation": "女儿", "name": "邢岫烟"}
+    ]
+  },
+  {
+    "name": "邢德全",
+    "description": "邢夫人的弟弟，人称傻大舅",
+    "relationships": [
+      {"relation": "姐姐", "name": "邢夫人"}
+    ]
+  },
+  {
+    "name": "李守中",
+    "description": "李纨的父亲，任国子监",
+    "relationships": [
+      {"relation": "女儿", "name": "李纨"}
+    ]
+  },
+  {
+    "name": "李婶娘",
+    "description": "李纨的婶婶",
+    "relationships": [
+      {"relation": "侄女", "name": "李纨"}
+    ]
+  },
+  {
+    "name": "李纹",
+    "description": "李纨的堂妹，李婶娘的女儿",
+    "relationships": [
+      {"relation": "母亲", "name": "李婶娘"},
+      {"relation": "堂姐", "name": "李纨"}
+    ]
+  },
+  {
+    "name": "李绮",
+    "description": "李纨的堂妹，李婶娘的女儿",
+    "relationships": [
+      {"relation": "母亲", "name": "李婶娘"},
+      {"relation": "堂姐", "name": "李纨"}
+    ]
+  },
+  {
+    "name": "王成",
+    "description": "王狗的父亲，第六回就病死了",
+    "relationships": [
+      {"relation": "儿子", "name": "王狗"}
+    ]
+  },
+  {
+    "name": "刘姥姥",
+    "description": "王狗的岳母",
+    "relationships": [
+      {"relation": "女婿", "name": "王狗"},
+      {"relation": "女儿", "name": "刘氏"}
+    ]
+  },
+  {
+    "name": "王狗",
+    "description": "王狗的祖上和王夫人父亲是连宗",
+    "relationships": [
+      {"relation": "父亲", "name": "王成"},
+      {"relation": "配偶", "name": "刘氏"},
+      {"relation": "儿子", "name": "板儿"},
+      {"relation": "女儿", "name": "青儿"},
+      {"relation": "岳母", "name": "刘姥姥"}
+    ]
+  },
+  {
+    "name": "刘氏",
+    "description": "王狗的老婆，刘姥姥的女儿",
+    "relationships": [
+      {"relation": "配偶", "name": "王狗"},
+      {"relation": "母亲", "name": "刘姥姥"},
+      {"relation": "儿子", "name": "板儿"},
+      {"relation": "女儿", "name": "青儿"}
+    ]
+  },
+  {
+    "name": "板儿",
+    "description": "王狗的儿子",
+    "relationships": [
+      {"relation": "父亲", "name": "王狗"},
+      {"relation": "母亲", "name": "刘氏"},
+      {"relation": "祖母", "name": "刘姥姥"},
+      {"relation": "妹妹", "name": "青儿"}
+    ]
+  },
+  {
+    "name": "青儿",
+    "description": "王狗的女儿，最后巧姐扮成青儿逃出",
+    "relationships": [
+      {"relation": "父亲", "name": "王狗"},
+      {"relation": "母亲", "name": "刘氏"},
+      {"relation": "哥哥", "name": "板儿"},
+      {"relation": "祖母", "name": "刘姥姥"}
+    ]
+  },
+  {
+    "name": "妙玉",
+    "description": "栊翠庵尼姑，才华馥郁，品位高雅，最后被贼人掳走",
+    "relationships": []
+  },
+  {
+    "name": "秦钟",
+    "description": "秦业的儿子，和尼姑智能偷情，宝玉的朋友",
+    "relationships": [
+      {"relation": "父亲", "name": "秦业"},
+      {"relation": "朋友", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "北静王",
+    "description": "年纪很轻，性情谦和，宝玉的朋友",
+    "relationships": [
+      {"relation": "朋友", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "蒋玉菡",
+    "description": "也叫琪官，忠顺王府戏班的名角，和宝玉互换汗巾，最后娶袭人为妻",
+    "relationships": [
+      {"relation": "朋友", "name": "贾宝玉"},
+      {"relation": "配偶", "name": "袭人"}
+    ]
+  },
+  {
+    "name": "柳湘莲",
+    "description": "父母早丧，性情豪爽，耍枪舞剑，吹笛弹筝，无所不为。本来妻子定的是尤三姐，但他觉得宁府的人都不干净，最后尤三姐自刎，柳湘莲遗憾地随道士而去",
+    "relationships": [
+      {"relation": "未婚妻", "name": "尤三姐"}
+    ]
+  },
+  {
+    "name": "赵姨娘",
+    "description": "贾政的小妾，生了贾环和贾探春",
+    "relationships": [
+      {"relation": "配偶", "name": "贾政"},
+      {"relation": "儿子", "name": "贾环"},
+      {"relation": "女儿", "name": "贾探春"}
+    ]
+  },
+  {
+    "name": "周姨娘",
+    "description": "贾政的小妾，和赵姨娘一起奉侍贾母",
+    "relationships": [
+      {"relation": "配偶", "name": "贾政"}
+    ]
+  },
+  {
+    "name": "贾迎春之母",
+    "description": "贾赦的小妾",
+    "relationships": [
+      {"relation": "配偶", "name": "贾赦"},
+      {"relation": "女儿", "name": "贾迎春"}
+    ]
+  },
+  {
+    "name": "嫣红",
+    "description": "贾赦的小妾，贾赦本想要鸳鸯做妾，被贾母呵斥，只好买了嫣红来代替",
+    "relationships": [
+      {"relation": "配偶", "name": "贾赦"}
+    ]
+  },
+  {
+    "name": "娇红",
+    "description": "贾赦的小妾",
+    "relationships": [
+      {"relation": "配偶", "name": "贾赦"}
+    ]
+  },
+  {
+    "name": "翠云",
+    "description": "贾赦的小妾",
+    "relationships": [
+      {"relation": "配偶", "name": "贾赦"}
+    ]
+  },
+  {
+    "name": "佩凤",
+    "description": "贾珍的小妾",
+    "relationships": [
+      {"relation": "配偶", "name": "贾珍"}
+    ]
+  },
+  {
+    "name": "偕鸾",
+    "description": "贾珍的小妾",
+    "relationships": [
+      {"relation": "配偶", "name": "贾珍"}
+    ]
+  },
+  {
+    "name": "文花",
+    "description": "贾珍的小妾",
+    "relationships": [
+      {"relation": "配偶", "name": "贾珍"}
+    ]
+  },
+  {
+    "name": "袭人",
+    "description": "宝玉的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"},
+      {"relation": "配偶", "name": "蒋玉菡"}
+    ]
+  },
+  {
+    "name": "晴雯",
+    "description": "宝玉的丫鬟，心比天高，命比纸薄",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "秋纹",
+    "description": "宝玉的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "麝月",
+    "description": "宝玉的丫鬟，贾府落败后还在服侍",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "碧痕",
+    "description": "宝玉的丫鬟，有的版本也叫'碧浪'",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "绮霞",
+    "description": "宝玉的丫鬟，有的版本也叫'绮霰'",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "四儿",
+    "description": "宝玉的丫鬟，原名是芸香，袭人改成蕙香，宝玉又改成四儿",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "檀云",
+    "description": "宝玉的丫鬟，原本有重要剧情的，但相关内容已失传",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "茜雪",
+    "description": "宝玉的丫鬟，她把宝玉的枫露茶给李嬷嬷喝了，被宝玉一怒之下撵了出去，脂评说茜雪去了狱神庙，暗示贾府落败后，去庙里安慰宝玉，可惜曹公原稿失传",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "小红",
+    "description": "宝玉的丫鬟，原名叫林红玉，因为玉字犯了宝玉的名讳，在怡红院当差，烧烧茶喂喂鸟，因为有几分姿色，去宝玉面前卖弄失败，最后转投了凤姐，与贾芸情定终身",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"},
+      {"relation": "主人", "name": "王熙凤"},
+      {"relation": "恋人", "name": "贾芸"}
+    ]
+  },
+  {
+    "name": "坠儿",
+    "description": "宝玉的丫鬟，偷了平儿的镯子，最后被晴雯撵了出去",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "春燕",
+    "description": "宝玉的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "佳蕙",
+    "description": "宝玉的丫鬟，年纪很小，只能打打杂",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "芳官",
+    "description": "宝玉的丫鬟，洗头事件、蔷薇硝事件",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "五儿",
+    "description": "宝玉的丫鬟，和芳官是好朋友",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "鸳鸯",
+    "description": "贾母的丫鬟，在贾府丫鬟中地位最高",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "琥珀",
+    "description": "贾母的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "珍珠",
+    "description": "贾母的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "翡翠",
+    "description": "贾母的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "玻璃",
+    "description": "贾母的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "鹦鹉",
+    "description": "贾母的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "靛儿",
+    "description": "贾母的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "傻大姐",
+    "description": "贾母的丫鬟，房内专做粗活的小丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "金钏",
+    "description": "王夫人的丫鬟，因不堪受辱，跳井而死",
+    "relationships": [
+      {"relation": "主人", "name": "王夫人"}
+    ]
+  },
+  {
+    "name": "玉钏",
+    "description": "王夫人的丫鬟，金钏的妹妹",
+    "relationships": [
+      {"relation": "主人", "name": "王夫人"},
+      {"relation": "姐姐", "name": "金钏"}
+    ]
+  },
+  {
+    "name": "彩云",
+    "description": "王夫人的丫鬟，与贾环倒是玩得很好",
+    "relationships": [
+      {"relation": "主人", "name": "王夫人"}
+    ]
+  },
+  {
+    "name": "彩霞",
+    "description": "王夫人的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王夫人"}
+    ]
+  },
+  {
+    "name": "绣鸾",
+    "description": "王夫人的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王夫人"}
+    ]
+  },
+  {
+    "name": "绣凤",
+    "description": "王夫人的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王夫人"}
+    ]
+  },
+  {
+    "name": "同喜",
+    "description": "薛姨妈的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王氏薛姨妈"}
+    ]
+  },
+  {
+    "name": "同贵",
+    "description": "薛姨妈的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王氏薛姨妈"}
+    ]
+  },
+  {
+    "name": "平儿",
+    "description": "王熙凤的陪嫁丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王熙凤"},
+      {"relation": "配偶", "name": "贾琏"}
+    ]
+  },
+  {
+    "name": "丰儿",
+    "description": "王熙凤的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "玉儿",
+    "description": "王熙凤的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "半儿",
+    "description": "王熙凤的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "善姐",
+    "description": "王熙凤的丫鬟，后送与尤二姐",
+    "relationships": [
+      {"relation": "主人", "name": "王熙凤"},
+      {"relation": "主人", "name": "尤二姐"}
+    ]
+  },
+  {
+    "name": "素云",
+    "description": "李纨的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "李纨"}
+    ]
+  },
+  {
+    "name": "银蝶",
+    "description": "尤氏的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "尤氏"}
+    ]
+  },
+  {
+    "name": "炒豆",
+    "description": "尤氏的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "尤氏"}
+    ]
+  },
+  {
+    "name": "卐儿",
+    "description": "尤氏的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "尤氏"}
+    ]
+  },
+  {
+    "name": "紫鹃",
+    "description": "黛玉的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "林黛玉"}
+    ]
+  },
+  {
+    "name": "雪雁",
+    "description": "黛玉的丫鬟，从老家带来的",
+    "relationships": [
+      {"relation": "主人", "name": "林黛玉"}
+    ]
+  },
+  {
+    "name": "春纤",
+    "description": "黛玉的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "林黛玉"}
+    ]
+  },
+  {
+    "name": "莺儿",
+    "description": "宝钗的丫鬟，宝钗嫌金莺拗口，改叫莺儿",
+    "relationships": [
+      {"relation": "主人", "name": "薛宝钗"}
+    ]
+  },
+  {
+    "name": "文杏",
+    "description": "宝钗的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "薛宝钗"}
+    ]
+  },
+  {
+    "name": "抱琴",
+    "description": "元春的丫鬟，随元春进宫的侍女",
+    "relationships": [
+      {"relation": "主人", "name": "贾元春"}
+    ]
+  },
+  {
+    "name": "司棋",
+    "description": "迎春的丫鬟，王善保的外孙女",
+    "relationships": [
+      {"relation": "主人", "name": "贾迎春"}
+    ]
+  },
+  {
+    "name": "莲花",
+    "description": "迎春的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾迎春"}
+    ]
+  },
+  {
+    "name": "绣橘",
+    "description": "迎春的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾迎春"}
+    ]
+  },
+  {
+    "name": "侍书",
+    "description": "探春的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾探春"}
+    ]
+  },
+  {
+    "name": "翠墨",
+    "description": "探春的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾探春"}
+    ]
+  },
+  {
+    "name": "小蝉",
+    "description": "探春的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾探春"}
+    ]
+  },
+  {
+    "name": "入画",
+    "description": "惜春的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾惜春"}
+    ]
+  },
+  {
+    "name": "彩屏",
+    "description": "惜春的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "贾惜春"}
+    ]
+  },
+  {
+    "name": "翠缕",
+    "description": "湘云的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "笑儿",
+    "description": "湘云的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "篆儿",
+    "description": "湘云的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "宝珠",
+    "description": "秦可卿的丫鬟，秦可卿死后，自认义女",
+    "relationships": [
+      {"relation": "主人", "name": "秦可卿"}
+    ]
+  },
+  {
+    "name": "瑞珠",
+    "description": "秦可卿的丫鬟，秦可卿死后，触柱而亡",
+    "relationships": [
+      {"relation": "主人", "name": "秦可卿"}
+    ]
+  },
+  {
+    "name": "小螺",
+    "description": "宝琴的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "薛宝琴"}
+    ]
+  },
+  {
+    "name": "臻儿",
+    "description": "香菱的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "香菱"}
+    ]
+  },
+  {
+    "name": "小舍儿",
+    "description": "夏金桂的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "夏金桂"}
+    ]
+  },
+  {
+    "name": "小吉祥儿",
+    "description": "赵姨娘的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "赵姨娘"}
+    ]
+  },
+  {
+    "name": "小鹊",
+    "description": "赵姨娘的丫鬟",
+    "relationships": [
+      {"relation": "主人", "name": "赵姨娘"}
+    ]
+  },
+  {
+    "name": "李嬷嬷",
+    "description": "宝玉的奶娘，李贵的母亲",
+    "relationships": [
+      {"relation": "孩子（奶娘）", "name": "贾宝玉"},
+      {"relation": "儿子", "name": "李贵"}
+    ]
+  },
+  {
+    "name": "王嬷嬷",
+    "description": "黛玉的奶娘",
+    "relationships": [
+      {"relation": "孩子（奶娘）", "name": "林黛玉"}
+    ]
+  },
+  {
+    "name": "赵嬷嬷",
+    "description": "贾琏的奶娘",
+    "relationships": [
+      {"relation": "孩子（奶娘）", "name": "贾琏"}
+    ]
+  },
+  {
+    "name": "宋嬷嬷",
+    "description": "怡红院打杂的老妈子，也称宋妈",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "茗烟",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "兴儿",
+    "description": "贾琏的心腹小厮，尤二姐事件",
+    "relationships": [
+      {"relation": "主人", "name": "贾琏"}
+    ]
+  },
+  {
+    "name": "昭儿",
+    "description": "贾琏的心腹小厮，多姑娘事件",
+    "relationships": [
+      {"relation": "主人", "name": "贾琏"}
+    ]
+  },
+  {
+    "name": "庆儿",
+    "description": "贾琏和王熙凤的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾琏"},
+      {"relation": "主人", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "王信",
+    "description": "贾琏和王熙凤的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾琏"},
+      {"relation": "主人", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "隆儿",
+    "description": "贾琏的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾琏"}
+    ]
+  },
+  {
+    "name": "锄药",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "墨雨",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "伴鹤",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "扫花",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "引泉",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "挑芸",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "双瑞",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "双寿",
+    "description": "宝玉的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "钱槐",
+    "description": "贾环的小厮，赵姨娘的内侄",
+    "relationships": [
+      {"relation": "主人", "name": "贾环"},
+      {"relation": "姑母", "name": "赵姨娘"}
+    ]
+  },
+  {
+    "name": "喜儿",
+    "description": "贾珍的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾珍"}
+    ]
+  },
+  {
+    "name": "寿儿",
+    "description": "贾珍的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾珍"}
+    ]
+  },
+  {
+    "name": "杏奴",
+    "description": "柳湘莲的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "柳湘莲"}
+    ]
+  },
+  {
+    "name": "小玄儿",
+    "description": "贾府角门看门的小厮",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"}
+    ]
+  },
+  {
+    "name": "李贵",
+    "description": "宝玉的仆人，李嬷嬷的儿子",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"},
+      {"relation": "母亲", "name": "李嬷嬷"}
+    ]
+  },
+  {
+    "name": "王荣",
+    "description": "宝玉的仆人",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "钱启",
+    "description": "宝玉的仆人",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "张若锦",
+    "description": "宝玉的仆人",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "赵亦华",
+    "description": "宝玉的仆人",
+    "relationships": [
+      {"relation": "主人", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "来旺",
+    "description": "贾琏和王熙凤的仆人",
+    "relationships": [
+      {"relation": "主人", "name": "贾琏"},
+      {"relation": "主人", "name": "王熙凤"}
+    ]
+  },
+  {
+    "name": "多官",
+    "description": "荣府的酒头厨子，绰号多浑虫",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"},
+      {"relation": "配偶", "name": "多姑娘"}
+    ]
+  },
+  {
+    "name": "多姑娘",
+    "description": "多浑虫的妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "多官"}
+    ]
+  },
+  {
+    "name": "钱华",
+    "description": "荣府的买办",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"}
+    ]
+  },
+  {
+    "name": "祝妈",
+    "description": "管理大观园竹林的佣人",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"}
+    ]
+  },
+  {
+    "name": "田妈",
+    "description": "管理大观园谷物庄稼的佣人",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"}
+    ]
+  },
+  {
+    "name": "叶妈",
+    "description": "茗烟之母，管理大观园花草，莺儿的干娘",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"},
+      {"relation": "儿子", "name": "茗烟"},
+      {"relation": "干女儿", "name": "莺儿"}
+    ]
+  },
+  {
+    "name": "何婆子",
+    "description": "春燕的母亲，芳官的干娘",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"},
+      {"relation": "女儿", "name": "春燕"},
+      {"relation": "干女儿", "name": "芳官"}
+    ]
+  },
+  {
+    "name": "夏婆子",
+    "description": "春燕的姨妈，藕官的干娘",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"},
+      {"relation": "外甥女", "name": "春燕"},
+      {"relation": "干女儿", "name": "藕官"}
+    ]
+  },
+  {
+    "name": "焦大",
+    "description": "宁府的老仆人",
+    "relationships": [
+      {"relation": "主人", "name": "宁国府"}
+    ]
+  },
+  {
+    "name": "赖二",
+    "description": "宁府的大管家",
+    "relationships": [
+      {"relation": "主人", "name": "宁国府"}
+    ]
+  },
+  {
+    "name": "俞禄",
+    "description": "宁府的小管家",
+    "relationships": [
+      {"relation": "主人", "name": "宁国府"}
+    ]
+  },
+  {
+    "name": "赖大",
+    "description": "荣府的大管家，赖尚荣的父亲",
+    "relationships": [
+      {"relation": "主人", "name": "荣国府"},
+      {"relation": "儿子", "name": "赖尚荣"}
+    ]
+  },
+  {
+    "name": "吴新登",
+    "description": "荣府的银库房总管",
+    "relationships": [
+      {"relation": "主人", "name": "荣国府"}
+    ]
+  },
+  {
+    "name": "周瑞",
+    "description": "掌管收取地租的管家，也是王夫人的陪房",
+    "relationships": [
+      {"relation": "主人", "name": "荣国府"},
+      {"relation": "主人", "name": "王夫人"}
+    ]
+  },
+  {
+    "name": "林之孝",
+    "description": "小红的父亲，荣府的二管家",
+    "relationships": [
+      {"relation": "主人", "name": "荣国府"},
+      {"relation": "女儿", "name": "小红"}
+    ]
+  },
+  {
+    "name": "单大良",
+    "description": "荣府的小管家",
+    "relationships": [
+      {"relation": "主人", "name": "荣国府"}
+    ]
+  },
+  {
+    "name": "余信",
+    "description": "掌管寺庙月例银子的管家",
+    "relationships": [
+      {"relation": "主人", "name": "贾府"}
+    ]
+  },
+  {
+    "name": "乌进孝",
+    "description": "宁府黑山庄庄头",
+    "relationships": [
+      {"relation": "主人", "name": "宁国府"}
+    ]
+  },
+  {
+    "name": "周瑞家的",
+    "description": "王夫人的陪房，冷子兴的岳母",
+    "relationships": [
+      {"relation": "主人", "name": "王夫人"},
+      {"relation": "女婿", "name": "冷子兴"}
+    ]
+  },
+  {
+    "name": "来喜家的",
+    "description": "王夫人的陪房",
+    "relationships": [
+      {"relation": "主人", "name": "王夫人"}
+    ]
+  },
+  {
+    "name": "王善保家的",
+    "description": "邢夫人的陪房，司棋的外婆",
+    "relationships": [
+      {"relation": "主人", "name": "邢夫人"},
+      {"relation": "外孙女", "name": "司棋"}
+    ]
+  },
+  {
+    "name": "林之孝家的",
+    "description": "林之孝的妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "林之孝"},
+      {"relation": "女儿", "name": "小红"}
+    ]
+  },
+  {
+    "name": "来旺家的",
+    "description": "替凤姐放账收债，凤姐的得力心腹",
+    "relationships": [
+      {"relation": "主人", "name": "王熙凤"},
+      {"relation": "配偶", "name": "来旺"}
+    ]
+  },
+  {
+    "name": "余信家的",
+    "description": "余信的妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "余信"}
+    ]
+  },
+  {
+    "name": "张材家的",
+    "description": "张材的妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "张材"}
+    ]
+  },
+  {
+    "name": "鲍二家的",
+    "description": "鲍二的妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "鲍二"}
+    ]
+  },
+  {
+    "name": "单大良家的",
+    "description": "单大良的妻子",
+    "relationships": [
+      {"relation": "配偶", "name": "单大良"}
+    ]
+  },
+  {
+    "name": "柳家的",
+    "description": "五儿之母，也称'柳妈'或'柳嫂子'",
+    "relationships": [
+      {"relation": "女儿", "name": "五儿"}
+    ]
+  },
+  {
+    "name": "秦显家的",
+    "description": "司棋的婶娘，负责荣府的上夜",
+    "relationships": [
+      {"relation": "侄女", "name": "司棋"}
+    ]
+  },
+  {
+    "name": "金荣",
+    "description": "金氏兄弟的儿子",
+    "relationships": [
+      {"relation": "母亲", "name": "胡氏"},
+      {"relation": "姑母", "name": "金氏"}
+    ]
+  },
+  {
+    "name": "胡氏",
+    "description": "金荣的母亲",
+    "relationships": [
+      {"relation": "儿子", "name": "金荣"}
+    ]
+  },
+  {
+    "name": "龄官",
+    "description": "贾蔷相好，蹲在蔷薇花下不停的写着蔷字",
+    "relationships": [
+      {"relation": "恋人", "name": "贾蔷"}
+    ]
+  },
+  {
+    "name": "藕官",
+    "description": "服侍黛玉，原与菂官恩爱，后与蕊官恩爱",
+    "relationships": [
+      {"relation": "主人", "name": "林黛玉"},
+      {"relation": "恋人", "name": "菂官"},
+      {"relation": "恋人", "name": "蕊官"}
+    ]
+  },
+  {
+    "name": "菂官",
+    "description": "在戏中与藕官扮夫妻，同性恋，不久夭亡",
+    "relationships": [
+      {"relation": "恋人", "name": "藕官"}
+    ]
+  },
+  {
+    "name": "豆官",
+    "description": "服侍宝琴",
+    "relationships": [
+      {"relation": "主人", "name": "薛宝琴"}
+    ]
+  },
+  {
+    "name": "文官",
+    "description": "服侍贾母",
+    "relationships": [
+      {"relation": "主人", "name": "史太君"}
+    ]
+  },
+  {
+    "name": "茄官",
+    "description": "服侍尤氏",
+    "relationships": [
+      {"relation": "主人", "name": "尤氏"}
+    ]
+  },
+  {
+    "name": "艾官",
+    "description": "服侍探春",
+    "relationships": [
+      {"relation": "主人", "name": "贾探春"}
+    ]
+  },
+  {
+    "name": "葵官",
+    "description": "服侍湘云",
+    "relationships": [
+      {"relation": "主人", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "牛清",
+    "description": "镇国公",
+    "relationships": [
+      {"relation": "孙子", "name": "牛继宗"}
+    ]
+  },
+  {
+    "name": "牛继宗",
+    "description": "牛清的孙子，世袭一等伯",
+    "relationships": [
+      {"relation": "祖父", "name": "牛清"}
+    ]
+  },
+  {
+    "name": "柳彪",
+    "description": "理国公",
+    "relationships": [
+      {"relation": "孙子", "name": "柳芳"}
+    ]
+  },
+  {
+    "name": "柳芳",
+    "description": "柳彪的孙子，世袭一等子",
+    "relationships": [
+      {"relation": "祖父", "name": "柳彪"}
+    ]
+  },
+  {
+    "name": "陈翼",
+    "description": "齐国公",
+    "relationships": [
+      {"relation": "孙子", "name": "陈瑞文"}
+    ]
+  },
+  {
+    "name": "陈瑞文",
+    "description": "陈翼的孙子，世袭三品威镇将军",
+    "relationships": [
+      {"relation": "祖父", "name": "陈翼"}
+    ]
+  },
+  {
+    "name": "马魁",
+    "description": "治国公",
+    "relationships": [
+      {"relation": "孙子", "name": "马尚"}
+    ]
+  },
+  {
+    "name": "马尚",
+    "description": "马魁的孙子，世袭三品威远将军",
+    "relationships": [
+      {"relation": "祖父", "name": "马魁"}
+    ]
+  },
+  {
+    "name": "侯晓明",
+    "description": "修国公",
+    "relationships": [
+      {"relation": "孙子", "name": "侯孝康"}
+    ]
+  },
+  {
+    "name": "侯孝康",
+    "description": "侯晓明的孙子，世袭一等子",
+    "relationships": [
+      {"relation": "祖父", "name": "侯晓明"}
+    ]
+  },
+  {
+    "name": "缮国公",
+    "description": "刚刚亡故，没来",
+    "relationships": [
+      {"relation": "孙子", "name": "石光珠"}
+    ]
+  },
+  {
+    "name": "石光珠",
+    "description": "缮国公的孙子",
+    "relationships": [
+      {"relation": "祖父", "name": "缮国公"}
+    ]
+  },
+  {
+    "name": "蒋子宁",
+    "description": "平原侯的孙子，世袭二等男",
+    "relationships": []
+  },
+  {
+    "name": "谢鲸",
+    "description": "定城侯的孙子，世袭二等男",
+    "relationships": []
+  },
+  {
+    "name": "戚建辉",
+    "description": "襄阳侯的孙子，世袭二等男",
+    "relationships": []
+  },
+  {
+    "name": "裘良",
+    "description": "景田侯的孙子，王城兵马司",
+    "relationships": []
+  },
+  {
+    "name": "水溶",
+    "description": "北静郡王",
+    "relationships": []
+  },
+  {
+    "name": "詹光",
+    "description": "贾政的清客相公，善工笔画",
+    "relationships": [
+      {"relation": "主人", "name": "贾政"}
+    ]
+  },
+  {
+    "name": "程日兴",
+    "description": "贾政的清客相公，古董行老板",
+    "relationships": [
+      {"relation": "主人", "name": "贾政"}
+    ]
+  },
+  {
+    "name": "单聘仁",
+    "description": "贾政的清客相公",
+    "relationships": [
+      {"relation": "主人", "name": "贾政"}
+    ]
+  },
+  {
+    "name": "卜固修",
+    "description": "贾政的清客相公",
+    "relationships": [
+      {"relation": "主人", "name": "贾政"}
+    ]
+  },
+  {
+    "name": "胡斯来",
+    "description": "贾政的清客相公",
+    "relationships": [
+      {"relation": "主人", "name": "贾政"}
+    ]
+  },
+  {
+    "name": "空空道人",
+    "description": "抄录石头记",
+    "relationships": []
+  },
+  {
+    "name": "甄宝玉",
+    "description": "甄家公子，似为宝玉的镜中幻影",
+    "relationships": []
+  },
+  {
+    "name": "冯渊",
+    "description": "小乡绅的儿子，被薛蟠打死了",
+    "relationships": []
+  },
+  {
+    "name": "秦业",
+    "description": "秦钟的父亲",
+    "relationships": [
+      {"relation": "儿子", "name": "秦钟"}
+    ]
+  },
+  {
+    "name": "智能",
+    "description": "水月庵尼姑",
+    "relationships": [
+      {"relation": "恋人", "name": "秦钟"}
+    ]
+  },
+  {
+    "name": "智善",
+    "description": "水月庵尼姑",
+    "relationships": []
+  },
+  {
+    "name": "智通",
+    "description": "水月庵尼姑",
+    "relationships": []
+  },
+  {
+    "name": "净虚",
+    "description": "水月庵老尼姑，智能智善她们的师傅",
+    "relationships": [
+      {"relation": "徒弟", "name": "智能"},
+      {"relation": "徒弟", "name": "智善"},
+      {"relation": "徒弟", "name": "智通"}
+    ]
+  },
+  {
+    "name": "冯唐",
+    "description": "神武将军，贾府世交",
+    "relationships": [
+      {"relation": "儿子", "name": "冯紫英"}
+    ]
+  },
+  {
+    "name": "冯紫英",
+    "description": "冯唐的儿子，薛蟠生日时也在其中",
+    "relationships": [
+      {"relation": "父亲", "name": "冯唐"},
+      {"relation": "朋友", "name": "薛蟠"}
+    ]
+  },
+  {
+    "name": "张友士",
+    "description": "冯紫英以前的老师，懂医术",
+    "relationships": [
+      {"relation": "学生", "name": "冯紫英"}
+    ]
+  },
+  {
+    "name": "花母",
+    "description": "袭人的母亲",
+    "relationships": [
+      {"relation": "女儿", "name": "袭人"},
+      {"relation": "儿子", "name": "花自芳"}
+    ]
+  },
+  {
+    "name": "花自芳",
+    "description": "袭人的哥哥",
+    "relationships": [
+      {"relation": "妹妹", "name": "袭人"},
+      {"relation": "母亲", "name": "花母"}
+    ]
+  },
+  {
+    "name": "赖尚荣",
+    "description": "县官，赖大的儿子",
+    "relationships": [
+      {"relation": "父亲", "name": "赖大"}
+    ]
+  },
+  {
+    "name": "倪二",
+    "description": "贾芸的邻居，绰号醉金刚",
+    "relationships": [
+      {"relation": "邻居", "name": "贾芸"}
+    ]
+  },
+  {
+    "name": "卜世仁",
+    "description": "贾芸的舅舅，香料铺的掌柜",
+    "relationships": [
+      {"relation": "外甥", "name": "贾芸"},
+      {"relation": "女儿", "name": "银姐"}
+    ]
+  },
+  {
+    "name": "银姐",
+    "description": "卜世仁的女儿",
+    "relationships": [
+      {"relation": "父亲", "name": "卜世仁"}
+    ]
+  },
+  {
+    "name": "马道婆",
+    "description": "宝玉寄名的干娘",
+    "relationships": [
+      {"relation": "干儿子", "name": "贾宝玉"}
+    ]
+  },
+  {
+    "name": "金彩",
+    "description": "鸳鸯的父亲",
+    "relationships": [
+      {"relation": "女儿", "name": "鸳鸯"},
+      {"relation": "儿子", "name": "金文翔"}
+    ]
+  },
+  {
+    "name": "金文翔",
+    "description": "鸳鸯的哥哥，贾母房里的买办",
+    "relationships": [
+      {"relation": "妹妹", "name": "鸳鸯"},
+      {"relation": "父亲", "name": "金彩"}
+    ]
+  },
+  {
+    "name": "尤老娘",
+    "description": "尤氏的继母",
+    "relationships": [
+      {"relation": "继女", "name": "尤氏"},
+      {"relation": "女儿", "name": "尤二姐"},
+      {"relation": "女儿", "name": "尤三姐"}
+    ]
+  },
+  {
+    "name": "张华",
+    "description": "皇粮庄的庄头之后",
+    "relationships": []
+  },
+  {
+    "name": "严老爷",
+    "description": "甄士隐的朋友，前任官吏",
+    "relationships": [
+      {"relation": "朋友", "name": "甄士隐"}
+    ]
+  },
+  {
+    "name": "戴良",
+    "description": "管粮仓的头目",
+    "relationships": []
+  },
+  {
+    "name": "戴权",
+    "description": "大明宫掌宫内相",
+    "relationships": []
+  },
+  {
+    "name": "金哥",
+    "description": "长安县大财主张姓的女儿",
+    "relationships": []
+  },
+  {
+    "name": "李公子",
+    "description": "长安府太爷的小舅子，也称李衙内",
+    "relationships": []
+  },
+  {
+    "name": "云光",
+    "description": "长安节度使",
+    "relationships": []
+  },
+  {
+    "name": "夏守忠",
+    "description": "六宫都太监",
+    "relationships": []
+  },
+  {
+    "name": "吴贵妃",
+    "description": "皇宫中的贵妃",
+    "relationships": [
+      {"relation": "父亲", "name": "吴天佑"}
+    ]
+  },
+  {
+    "name": "吴天佑",
+    "description": "吴贵妃的父亲",
+    "relationships": [
+      {"relation": "女儿", "name": "吴贵妃"}
+    ]
+  },
+  {
+    "name": "山子野",
+    "description": "设计大观园的园艺师",
+    "relationships": []
+  },
+  {
+    "name": "昭容",
+    "description": "宫中的女官",
+    "relationships": []
+  },
+  {
+    "name": "彩缤",
+    "description": "宫中的女官",
+    "relationships": []
+  },
+  {
+    "name": "王短腿",
+    "description": "马贩子",
+    "relationships": []
+  },
+  {
+    "name": "方椿",
+    "description": "花匠",
+    "relationships": []
+  },
+  {
+    "name": "鲍太医",
+    "description": "太医",
+    "relationships": []
+  },
+  {
+    "name": "王济仁",
+    "description": "太医，也称王大夫、王太医",
+    "relationships": [
+      {"relation": "师祖", "name": "王君效"}
+    ]
+  },
+  {
+    "name": "云儿",
+    "description": "锦香院的妓女",
+    "relationships": []
+  },
+  {
+    "name": "赵天梁",
+    "description": "赵嬷嬷的儿子",
+    "relationships": [
+      {"relation": "母亲", "name": "赵嬷嬷"},
+      {"relation": "兄弟", "name": "赵天栋"}
+    ]
+  },
+  {
+    "name": "赵天栋",
+    "description": "赵嬷嬷的儿子",
+    "relationships": [
+      {"relation": "母亲", "name": "赵嬷嬷"},
+      {"relation": "兄弟", "name": "赵天梁"}
+    ]
+  },
+  {
+    "name": "张道士",
+    "description": "清虚观道士，任道录司长官",
+    "relationships": []
+  },
+  {
+    "name": "周奶娘",
+    "description": "史湘云的奶娘",
+    "relationships": [
+      {"relation": "奶娘喂养", "name": "史湘云"}
+    ]
+  },
+  {
+    "name": "傅试",
+    "description": "贾政的门生，官任通判",
+    "relationships": [
+      {"relation": "老师", "name": "贾政"},
+      {"relation": "妹妹", "name": "傅秋芳"}
+    ]
+  },
+  {
+    "name": "傅秋芳",
+    "description": "傅试的妹妹",
+    "relationships": [
+      {"relation": "哥哥", "name": "傅试"}
+    ]
+  },
+  {
+    "name": "王君效",
+    "description": "王济仁的师祖",
+    "relationships": [
+      {"relation": "徒孙", "name": "王济仁"}
+    ]
+  },
+  {
+    "name": "胡君荣",
+    "description": "胡庸医",
+    "relationships": []
+  },
+  {
+    "name": "赵国基",
+    "description": "赵姨娘的兄弟",
+    "relationships": [
+      {"relation": "姐姐", "name": "赵姨娘"}
+    ]
+  },
+  {
+    "name": "小鸠儿",
+    "description": "何婆子的女儿，春燕的妹妹",
+    "relationships": [
+      {"relation": "母亲", "name": "何婆子"},
+      {"relation": "姐姐", "name": "春燕"}
+    ]
+  },
+  {
+    "name": "天文生",
+    "description": "阴阳先生",
+    "relationships": []
+  },
+  {
+    "name": "潘又安",
+    "description": "司棋的姑表弟",
+    "relationships": [
+      {"relation": "表姐", "name": "司棋"}
+    ]
+  },
+  {
+    "name": "朱大娘",
+    "description": "官媒婆",
+    "relationships": []
+  },
+  {
+    "name": "小霞",
+    "description": "彩霞的妹妹",
+    "relationships": [
+      {"relation": "姐姐", "name": "彩霞"}
+    ]
+  },
+  {
+    "name": "圆信",
+    "description": "地藏庵尼姑，有的版本叫圆心",
+    "relationships": []
+  },
+  {
+    "name": "夏奶奶",
+    "description": "夏金桂的母亲",
+    "relationships": [
+      {"relation": "女儿", "name": "夏金桂"}
+    ]
+  },
+  {
+    "name": "王一贴",
+    "description": "天齐庙的道士",
+    "relationships": []
+  }
+]
